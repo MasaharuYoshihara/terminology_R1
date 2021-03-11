@@ -1,3 +1,7 @@
+# This file is from Mate Pocs (2020)
+# https://towardsdatascience.com/pdf-text-extraction-in-python-5b6ab9e92dd
+# viewed 14 February 2021
+
 from io import StringIO
 
 from pdfminer.converter import TextConverter
